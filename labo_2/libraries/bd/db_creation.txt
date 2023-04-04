@@ -1,0 +1,30 @@
+
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS files;
+
+CREATE TABLE users (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name VARCHAR(100) NOT NULL CHECK(TRIM(name) != ""),
+    password VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE files (
+    user_id INT UNSIGNED NOT NULL,
+    hash VARCHAR(8) NOT NULL,
+    name VARCHAR(100) NOT NULL CHECK(TRIM(name) != ""),
+    timestamp DATETIME NOT NULL,
+    pass VARCHAR(100),
+
+    FOREIGN KEY (user_id) REFERENCES users(id)   
+        ON DELETE SET NULL
+);
+
+
+INSERT INTO users(id, name, password) 
+VALUES  (0, "admin", "3b1ffa7e21a47880b4da46a29b02dc2e94c78013977c58d4c12f0ba845915768");
+
+INSERT INTO users(name, password)
+VALUES  ("alice", "27febdf7488d84080a74fd01ae31742719f42a108c855c95755c7262a9b94a35"),
+        ("bob", "a3c00c587eb8acc1c2c042328615bae7f7c2f1f949ce44e6409281973ea4c1cf"),
+        ("charlie", "c317ca8646dcc5bdc7759417a2cad0458a6418ff9548630583f53a531e4e8525"),
+        ("david", "793653ec3800d99cc2563d21719dc15f448eea8f789e738e67d24f31bc622ad4");

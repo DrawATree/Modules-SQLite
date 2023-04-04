@@ -1,0 +1,79 @@
+[
+
+   James Hoffman (/assets/media/images/avatar.png)]0 (https://jhoffman.ca)
+
+   Techniques de l'Informatique (https://shawinigan.info), Cégep de
+   Shawinigan
+
+      __ Cours (/)
+
+       * Archives (/archives)
+       * Ressources (/ressources)
+       * Manifesto (/manifesto)
+
+
+      __
+
+   Base de données 1 (/2022A/0Q7)
+
+   [Doc__
+
+      ]7 (/sessions/2022A/0Q7/documentation)
+
+   Prochain cours, 21/12/2022
+
+   Laboratoire__
+   (/sessions/2022A/0Q7/documentation/7-laboratoire-1/#remise-menu)
+
+      
+
+      LÉA @ 8h00
+
+      __
+
+   Développement d'applications mobiles (/2022A/2SS)
+
+   [Doc__
+
+      ]10 (/sessions/2022A/2SS/documentation)
+
+   [Youtube__
+
+      ]11
+      (https://www.youtube.com/playlist?list=PL7dWCSr88NFST_bWqR8pvi2yo95r2BbCr)
+
+   Prochain cours, 21/12/2022
+
+   Livraison__
+
+      
+
+      Documentation sur LÉA et clone du code @ 8h00
+
+      __
+
+   Échange de données 1 (/2022A/0SV)
+
+   [Doc__
+
+      ]13 (/sessions/2022A/0SV/documentation)
+
+   Prochain cours, 21/12/2022
+
+   Laboratoire 2__
+   (/sessions/2022A/0SV/documentation/5-laboratoire-2/#remise-menu)
+
+      
+
+      LÉA @ 8h00
+
+   Évaluation terminale__
+
+      
+
+      1133A, 13h30 @ 17h30 Feuille de note manuscrite recto-verso autorisée
+      (si informatique recto seulement)
+
+   ⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽⎽
+
+         _ _
